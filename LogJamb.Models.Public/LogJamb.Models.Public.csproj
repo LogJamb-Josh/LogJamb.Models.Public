@@ -2,6 +2,18 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <id>LogJamb.Models.Public</id>
+    <version>0.0.1</version>
+    <title>LogJamb.Models.Public</title>
+    <authors>Josh Overholt</authors>
+    <owners>Josh Overholt</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/LogJamb-Josh/LogJamb.Models.Public</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>This is intended to establish a standard that digitally defines a physical jamb, and its relevant obstructions, to a sufficient degree that jamb related products, such as doors and windows, can be selected or engineered for use with the jamb. </description>
+    <releaseNotes>Initial Release.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>LogJamb Jamb</tags>
   </PropertyGroup>
 
 </Project>
