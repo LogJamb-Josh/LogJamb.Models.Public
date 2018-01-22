@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
-    <id>LogJamb.Models.Public</id>
-    <version>0.0.1</version>
+    <id>LogJamb.Models.Public</id>    
+    <VersionPrefix>0.0.1</VersionPrefix>
     <title>LogJamb.Models.Public</title>
     <authors>Josh Overholt</authors>
     <owners>Josh Overholt</owners>
